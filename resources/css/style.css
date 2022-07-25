@@ -3,5 +3,10 @@ body {
   color: white;
   text-align: center;
   font-family: Arial, Helvetica, sans-serif;
+}
 
+h1 {
+  font-family: Verdana, sans-serif;
+  font-weight: normal;
+  font-size: 50px;
 }
